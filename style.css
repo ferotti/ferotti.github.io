@@ -15,8 +15,8 @@
 #fiko {
     background-color: red;
     color: white;
-    height: 120px;
-    width: 1536px;
+    height: auto;
+    width: 900px;
     justify-content: space-evenly;
     display: flex;
     flex-direction: column;
